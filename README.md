@@ -123,3 +123,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiamelchioretto&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
 </p>
+
+## Contribuições
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leticiamelchioretto/leticiamelchioretto/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo as contribuições" />
+</p>
