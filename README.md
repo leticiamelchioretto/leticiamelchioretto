@@ -113,3 +113,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+## Meu GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leticiamelchioretto&show_icons=true&hide_border=true" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamelchioretto&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leticiamelchioretto&hide_border=true&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Gráfico de atividade" />
+</p>
