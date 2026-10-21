@@ -52,43 +52,49 @@
 </table>
 
 <details>
-  <summary><b>📖 Ver detalhes das competições</b></summary>
+  <summary><b>Detalhes das competições</b></summary>
   <br>
 
-  <h3>Competição internacional, Georgia (EUA) - 2026</h3>
+  <h3> Georgia Ramblin' Robots Invitationals (EUA) - Unearthed</h3>
   <ul>
-    <li><b>Equipe:</b> Robo Rangers 1</li>
+    <li><b>Equipe:</b> Robo Rangers</li>
     <li><b>Resultado:</b> 2º lugar geral</li>
-    <li><b>Meu papel:</b> [programação, mecânica, projeto de pesquisa...]</li>
+    <li><b>Meu papel:</b> Pesquisa para o projeto de inovação, portfólios e programação</li>
   </ul>
 
-  <h3>Torneio Nacional - 2025</h3>
+  <h3>Torneio Nacional SESI de Robótica Unearthed - 2026</h3>
   <ul>
-    <li><b>Equipe:</b> Robo Rangers 1</li>
-    <li><b>Resultado:</b> participação e classificação para a etapa dos EUA</li>
+    <li><b>Equipe:</b> Robo Rangers</li>
+    <li><b>Resultado:</b> Participação e classificação para a etapa dos EUA</li>
+    <li><b>Meu papel:</b> Pesquisa para o projeto de inovação e portfólios</li>
   </ul>
 
-  <h3>Regional - 2025</h3>
+  <h3>Regional Unearthed First Lego League - 2025</h3>
   <ul>
-    <li><b>Equipe:</b> Robo Rangers 1</li>
+    <li><b>Equipe:</b> Robo Rangers</li>
     <li><b>Resultado:</b> Champions Award, que levou a equipe ao nacional</li>
+    <li><b>Meu papel:</b> Pesquisa para o projeto de inovação e portfólios</li>
   </ul>
 
-  <h3>Submerged - 2025</h3>
+  <h3> Regional Submerged First Lego League- 2024</h3>
   <ul>
     <li><b>Equipe:</b> VS Tech Bots</li>
     <li><b>Resultado:</b> participação</li>
+    <li><b>Meu papel:</b> Capitã, Programadora principal</li>
   </ul>
 
-  <h3>Masterpiece - 2024</h3>
+  <h3> Regional Masterpiece First Lego League- 2023</h3>
   <ul>
-    <li><b>Resultado:</b> 2º lugar em Projeto de Inovação no regional</li>
+    <li><b>Equipe:</b> VS Tech Bots</li>
+    <li><b>Resultado:</b> 2º lugar em Projeto de Inovação</li>
+    <li><b>Meu papel:</b> Programadora principal, projeto de inovação</li>
   </ul>
 
-  <h3>Superpowered - 2023</h3>
+  <h3>Regional SuperPowered First Lego League- 2022/3</h3>
   <ul>
     <li><b>Equipe:</b> Jacabots</li>
     <li><b>Resultado:</b> 2º lugar em Core Values</li>
+    <li><b>Meu papel:</b> Programadora, projeto de inovação</li>
   </ul>
 </details>
 
