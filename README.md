@@ -4,6 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=leticiamelchioretto&style=for-the-badge&color=F75C7E&label=VISITAS" alt="Contador de visitas" />
 </p>
 
+## Sobre mim
+-Competidora da FRC representando a equipe Royal Trickster na área de Programação <br>
+-Ex competidora da FLL <br>
+-Estudante do Ensino Médio com técnico integrado de Desenvolvimento de Sistemas
 <h2 align="center"> Prêmios e competições</h2>
 
 <table align="center">
