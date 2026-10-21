@@ -128,3 +128,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/leticiamelchioretto/leticiamelchioretto/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo as contribuições" />
 </p>
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-melchioretto-02b2b2379/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticia_melchiore12@estudante.sesisenai.org.br)
