@@ -116,10 +116,10 @@
 ## Meu GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leticiamelchioretto&show_icons=true&hide_border=true" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamelchioretto&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leticiamelchioretto&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamelchioretto&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leticiamelchioretto&hide_border=true&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Gráfico de atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leticiamelchioretto&bg_color=0d1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade" />
 </p>
