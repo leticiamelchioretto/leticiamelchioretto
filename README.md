@@ -121,5 +121,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leticiamelchioretto&bg_color=0d1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiamelchioretto&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
 </p>
