@@ -115,14 +115,16 @@
 
 ## Meu GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leticiamelchioretto&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamelchioretto&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiamelchioretto&show_icons=true&theme=dark" alt="Estatísticas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamelchioretto&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiamelchioretto&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiamelchioretto&theme=dark" alt="Sequência de contribuições" />
+</div>
 
 ## Contribuições
 <p align="center">
