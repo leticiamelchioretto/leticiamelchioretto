@@ -116,14 +116,14 @@
 ## Meu GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiamelchioretto&show_icons=true&theme=dark" alt="Estatísticas" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamelchioretto&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leticiamelchioretto&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamelchioretto&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiamelchioretto&theme=dark" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=leticiamelchioretto&theme=dark" alt="Sequência de contribuições" />
 </div>
 
 ## Contribuições
