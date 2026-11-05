@@ -123,7 +123,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=leticiamelchioretto&theme=dark" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.vercel.app/?user=leticiamelchioretto&theme=dark" alt="Sequência de contribuições" />
 </div>
 
 ## Contribuições
