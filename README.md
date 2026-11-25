@@ -122,10 +122,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.vercel.app/?user=leticiamelchioretto&theme=dark" alt="Sequência de contribuições" />
-</div>
-
 ## Contribuições
 <p align="center">
   <img src="https://raw.githubusercontent.com/leticiamelchioretto/leticiamelchioretto/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo as contribuições" />
